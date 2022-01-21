@@ -16,6 +16,10 @@ public class Course {
       this.name = name;
       this.objectives = objectives;
    }
+      public Course() {
+
+      }
+
 
    public Integer getId() {
       return id;
